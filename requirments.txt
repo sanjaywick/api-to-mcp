@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+PyYAML
+openapi-spec-validator
+jsonschema
+python-dotenv
